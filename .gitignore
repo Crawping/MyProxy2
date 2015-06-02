@@ -26,3 +26,20 @@
 *.exe
 *.out
 *.app
+
+# Project files
+*.sln
+*.vc*proj*
+*.suo
+*.sdf
+*.opensdf
+*.vspx
+*.pdb
+*.ilk
+
+# Scripts
+*.py
+
+# Others
+obj
+Thumbs.db
